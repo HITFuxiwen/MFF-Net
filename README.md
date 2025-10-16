@@ -22,4 +22,4 @@ to anchor the approximate position of the manipulated regions, while the decoder
 
 ## Pretrained Weights
 
-https://drive.google.com/file/d/1Ds73N2EGVpAPWHhtG-lEvm_SpTA7AgLI/view?usp=sharing
+[https://drive.google.com/file/d/1Ds73N2EGVpAPWHhtG-lEvm_SpTA7AgLI/view?usp=sharing](https://drive.google.com/drive/folders/1CKK6PtvjmRiQ-gP1R26P2SWgxxxpuTog?usp=sharing)

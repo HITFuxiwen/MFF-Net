@@ -19,3 +19,7 @@ to anchor the approximate position of the manipulated regions, while the decoder
 • We explore and demonstrate the effectiveness of establishing two transformer-based models with different information processing capabilities as parallel backbones for detection tasks. These two branches provide the model with sufficient global modeling capability and local feature extraction capability, respectively. Meanwhile, since both of the two branches are all transformer-based models (even with distinct information processing capabilities), the features extracted from the two branches can be effectively fused to achieve improved performance.
 
 • A novel module called MSFU is proposed to guide the upsampling and fusion process. The MSFU module effectively preserves the internal relationships of features and maintains their spatial structure during the upsampling process. Then, it facilitates a more comprehensive integration of multi-level features and enhances the local structural information for the fused features.
+
+## Pretrained Weights
+
+https://drive.google.com/file/d/1Ds73N2EGVpAPWHhtG-lEvm_SpTA7AgLI/view?usp=sharing
